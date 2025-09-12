@@ -1,0 +1,14 @@
+# Dependencies
+node_modules
+
+# Vercel
+.vercel
+
+# Environment Variables
+.env
+.env.local
+*.env.local
+
+# Gizli anahtarlar
+.secure/
+gcp-credentials.json
